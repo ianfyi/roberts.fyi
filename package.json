@@ -1,0 +1,19 @@
+{
+  "name": "roberts.fyi",
+  "version": "0.0.1",
+  "description": "My website",
+  "main": "index.js",
+  "repository": "https://github.com/ianfyi/roberts.fyi.git",
+  "author": "Ian Roberts <ian@roberts.fyi>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.250",
+    "gatsby-link": "^1.6.40"
+  },
+  "private": true
+}
